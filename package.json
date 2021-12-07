@@ -4,7 +4,7 @@
   "description": "Assignment 1 for WAD",
   "main": "index.js",
   "scripts": {
-    "test": "\u001b[A\u001b[B"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
