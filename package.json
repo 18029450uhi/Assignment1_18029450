@@ -1,0 +1,22 @@
+{
+  "name": "assignment1_18029450",
+  "version": "1.0.0",
+  "description": "Assignment 1 for WAD",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[B"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18029450uhi/Assignment1_18029450.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18029450uhi/Assignment1_18029450/issues"
+  },
+  "homepage": "https://github.com/18029450uhi/Assignment1_18029450#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
